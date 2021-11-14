@@ -14,3 +14,4 @@
   - Thêm các code để lưu trữ kết quả trong file pacman.py (Ở các block comment *#################### STORE TIME, .... ####################*)
     - Thêm vào mục random.seed ở function Run game, nhằm để kết quả chạy ở các thuật toán được so sánh công bằng nhất.
 
+[embed]https://github.com/hohaithuy/AI-Pacman-CS106/blob/main/19522323_HoHaiThuy_Pacman.pdf[/embed]
