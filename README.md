@@ -13,4 +13,3 @@
   - Hoàn thành các hàm MinimaxAgent, AlphaBetaAgent, ExpectimaxAgent và evaluationFunction (finalEvaluationFunction)
   - Thêm các code để lưu trữ kết quả trong file pacman.py (Ở các block comment *#################### STORE TIME, .... ####################*)
     - Thêm vào mục random.seed ở function Run game, nhằm để kết quả chạy ở các thuật toán được so sánh công bằng nhất.
-
